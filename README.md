@@ -1,2 +1,3 @@
 # mad lab
- Mad Lab development programs.
+ Mobile App Development programs of VTU 6th sem CSE.
+ 
