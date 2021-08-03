@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VCard</string>
+    <string name="cName">Company name</string>
+    <string name="pName">Your name</string>
+    <string name="pJob">Occupation</string>
+    <string name="pMail">Mail, Fax</string>
+    <string name="pAddress">Address</string>
+    <string name="pPhone">Phone</string>
+    <string name="genBtn">Generate</string>
+    <string name="logoBtn">Select Logo</string>
+    <string name="logoDesc">Displays company logo</string>
+</resources>

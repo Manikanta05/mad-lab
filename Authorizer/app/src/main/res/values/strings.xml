@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Authorizer</string>
+    <string name="hey">Hey there</string>
+    <string name="login">Login</string>
+    <string name="your_mail">Your mail</string>
+    <string name="password">Password</string>
+</resources>
